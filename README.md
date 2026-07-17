@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prabin+Yadav+%F0%9F%91%8B;Computer+Science+%26+Engineering+Undergrad;Full-Stack+%7C+Cloud+ETL+%7C+Data+%26+ML+Systems;Building+things+that+ship." alt="Typing SVG" />
+<!-- Animated typing intro — widened + shortened lines so nothing clips -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=850&height=50&lines=Hi+there%2C+I'm+Prabin+Yadav+%F0%9F%91%8B;CSE+Undergrad+%40+Symbiosis+Institute+of+Technology;Full-Stack+Dev+%7C+Cloud+ETL+%7C+Applied+ML;Building+things+that+ship+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <!--
-  ⚡ TIP: Replace `Prabinyadav` below with your exact GitHub username everywhere
-  if it ever differs, and swap in your real Twitter/portfolio links where marked.
+  ⚡ Replace `Prabinyadav` below with your exact GitHub username everywhere
+  if it ever differs, and swap in real links where marked as placeholders.
 -->
 
 <div align="center">
@@ -16,6 +16,9 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prawinyadav2060@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabinyadav)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com) -->
+
+<img src="https://img.shields.io/github/followers/Prabinyadav?label=Followers&style=social" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Prabinyadav&label=Profile%20Views&color=00C4CC&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -43,8 +46,36 @@ class Prabin:
 
 ---
 
+### 🎯 Currently
+
+<table>
+<tr>
+<td>
+
+**🔭 Working on**
+Cloud data pipelines & multi-model ML systems
+
+</td>
+<td>
+
+**🌱 Learning**
+Distributed systems, advanced BI/Excel modeling
+
+</td>
+<td>
+
+**🤝 Open to**
+Data / full-stack internship & collab opportunities
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack
 
+#### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -56,6 +87,7 @@ class Prabin:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+#### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -66,29 +98,54 @@ class Prabin:
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
+#### Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
+#### Data Science & ML
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+#### Cloud & DevOps
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+#### Tools & Platforms
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+---
+
+### 📈 Skill Proficiency
+
+```text
+Python          ██████████████████░░  90%
+C / C++         █████████████████░░░  85%
+JavaScript/TS   ████████████████░░░░  80%
+React / Next.js ███████████████░░░░░  75%
+SQL / Databases ████████████████░░░░  80%
+Machine Learning███████████████░░░░░  75%
+Cloud (AWS)     █████████████░░░░░░░  65%
+```
 
 ---
 
@@ -158,11 +215,11 @@ class Prabin:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabinyadav&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Prabinyadav&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabinyadav&theme=redical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabinyadav&theme=radical&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -171,17 +228,78 @@ class Prabin:
   </a>
 </p>
 
+<details>
+<summary>⚠️ If any stat card above shows broken — click here (common cause + fix)</summary>
+
+<br>
+
+These cards are rendered by **free shared public services** (`github-readme-stats.vercel.app`, `streak-stats.demolab.com`, etc.). They occasionally go down or get rate-limited when too many profiles use them at once — this is a known, widely-reported issue with the services themselves, not something wrong in this file. It usually resolves on its own within a few hours.
+
+If it keeps happening, the permanent fix is to **self-host your own copy** (takes ~5 minutes, free):
+1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. Deploy your fork to your own [Vercel](https://vercel.com) account (one-click import)
+3. Replace `github-readme-stats.vercel.app` above with your own deployment URL
+
+Same idea works for the streak stats repo ([DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)) if that one ever goes down for you.
+
+</details>
+
 ---
 
 ### 🐍 Contribution Snake
 
-<!--
-  Auto-generated animation showing your contribution graph "eaten" by a snake.
-  Set this up via GitHub Actions (Platane/snk) — workflow below in the setup notes.
--->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Prabinyadav/Prabinyadav/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
+<details>
+<summary>🔧 Snake not showing yet? One-time setup (2 minutes)</summary>
+
+<br>
+
+This animation is generated by a GitHub Action — it won't appear until you add the workflow below to **this same repo** (the one named exactly `Prabinyadav`, containing this README).
+
+1. In your repo, create the file `.github/workflows/snake.yml`
+2. Paste this in:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Prabinyadav
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit it, then run it once manually from the **Actions** tab (`Generate Snake Animation` → `Run workflow`)
+4. After it finishes, the image above will start working automatically and refresh daily
+
+</details>
 
 ---
 
@@ -190,8 +308,6 @@ class Prabin:
 ### 💬 Quote I build by
 
 > *"I never lose. I either win or learn."* — Nelson Mandela
-
-<img src="https://komarev.com/ghpvc/?username=Prabinyadav&label=Profile%20Views&color=00C4CC&style=flat" alt="Profile Views" />
 
 **Thanks for stopping by — let's build something worth deploying. 🚀**
 
