@@ -26,7 +26,7 @@
 
 ### 🧠 About Me
 
-- 🎓 3rd-year **B.Tech in Computer Science & Engineering** at **Symbiosis Institute of Technology, Pune** (CGPA: **8.51/10**)
+- 🎓 Final-year **B.Tech in Computer Science & Engineering** at **Symbiosis Institute of Technology, Pune** (CGPA: **8.51/10**)
 - 🛠️ I build **full-stack applications**, **cloud ETL pipelines**, and **data-driven / ML systems** — and I like owning a project end-to-end, not just my slice of it.
 - 📊 Currently deep in **cloud data engineering** (AWS RDS, Tableau BI) and **applied ML** (XGBoost, Random Forest pipelines for real-world use cases).
 - 📝 Presented research at **SCI-2026, Swinburne Vietnam, Hanoi** — *"AI-Driven Tag Generation for Media Searchability"*.
