@@ -210,8 +210,8 @@ Cloud (AWS)     █████████████░░░░░░░  65
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-flax-alpha-61.vercel.app/api?username=Prabin-yadav&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-flax-alpha-61.vercel.app/api/top-langs/?username=Prabin-yadav&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Prabin-yadav&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Prabin-yadav&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
