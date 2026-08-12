@@ -210,22 +210,21 @@ Cloud (AWS)     █████████████░░░░░░░  65
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-flax-alpha-61.vercel.app/api?username=Prabinyadav&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-flax-alpha-61.vercel.app/api/top-langs/?username=Prabinyadav&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-flax-alpha-61.vercel.app/api?username=Prabin-yadav&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-flax-alpha-61.vercel.app/api/top-langs/?username=Prabin-yadav&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prabinyadav&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Prabin-yadav&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabinyadav&theme=radical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabin-yadav&theme=radical&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?Prabinyadav=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="Trophies" />
-    
+    <img src="https://github-profile-trophy.vercel.app/?username=Prabin-yadav&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
