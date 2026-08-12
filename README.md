@@ -250,7 +250,7 @@ Same idea works for the streak stats repo ([DenverCoder1/github-readme-streak-st
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prabinyadav/Prabinyadav/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="![GitHub Contribution Snake](https://raw.githubusercontent.com/Prabinyadav/Prabinyadav/output/github-contribution-grid-snake.svg)" alt="Contribution Snake" />
 </p>
 
 <details>
