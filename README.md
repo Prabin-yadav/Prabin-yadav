@@ -17,8 +17,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabin-yadav)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com) -->
 
-<img src="https://img.shields.io/github/followers/Prabinyadav?label=Followers&style=social" alt="Followers"/>
-<img src="https://komarev.com/ghpvc/?username=Prabinyadav&label=Profile%20Views&color=00C4CC&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Prabin-yadav?label=Followers&style=social" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Prabin-yadav&label=Profile%20Views&color=00C4CC&style=flat" alt="Profile Views" />
 
 </div>
 
