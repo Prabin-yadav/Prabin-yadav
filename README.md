@@ -37,7 +37,7 @@
 class Prabin:
     def __init__(self):
         self.role = "CSE Undergraduate"
-        self.focus = ["Full-Stack Dev", "Cloud ETL", "Applied ML"]
+        self.focus = ["Full-Stack Dev", "Data Science", "Applied ML"]
         self.currently_building = "Something that scales past the demo"
 
     def collaborate(self, you):
