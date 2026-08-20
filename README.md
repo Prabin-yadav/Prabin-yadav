@@ -53,7 +53,7 @@ class Prabin:
 <td>
 
 **🔭 Working on**
-Cloud data pipelines & multi-model ML systems
+Multi-model ML systems
 
 </td>
 <td>
